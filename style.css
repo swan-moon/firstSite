@@ -1,0 +1,21 @@
+.banner {
+    background-color: aquamarine;
+    color: white;
+    margin-top: 75px;
+    text-align: center;
+    padding: 100px 0;
+}
+
+#cory-face {
+    height: 100px;
+    width: 100px;
+}
+
+#cory-name {
+    color: black;
+    font-size: 100px;
+}
+
+.bold {
+    font-weight: 900;
+}
